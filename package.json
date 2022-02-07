@@ -1,0 +1,27 @@
+{
+  "name": "weather_cli", 
+  "version": "1.0.0",
+  "private": false,
+  "description": "CLI for getting weather",
+  "main": "index.js", 
+  "bin": "./index.js",
+  "os": ["!win32"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Roman Rudyy",
+  "license": "ISC",
+  "homepage": "https://purpleschool.ru",
+  "repository": {
+    "type": "git",
+    "url": "https://pokanetu.ru"
+  },
+  "bugs": {
+    "url": "https://pokanetu.ru",
+    "email": "kekisreal228@gmail.com"
+  }
+}
