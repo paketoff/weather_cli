@@ -1,11 +1,13 @@
 {
-  "name": "weather_cli", 
+  "name": "weather_cli",
   "version": "1.0.0",
   "private": false,
   "description": "CLI for getting weather",
-  "main": "index.js", 
-  "bin": "./index.js",
-  "os": ["!win32"],
+  "main": "weather.js",
+  "bin": {
+    "weather": "weather.js"
+  },
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,5 +25,10 @@
   "bugs": {
     "url": "https://pokanetu.ru",
     "email": "kekisreal228@gmail.com"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "chalk": "^5.0.0",
+    "dedent-js": "^1.0.1"
   }
 }
