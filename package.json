@@ -1,6 +1,6 @@
 {
-  "name": "weather_cli",
-  "version": "1.0.0",
+  "name": "weather_cli-package",
+  "version": "1.0.1",
   "private": false,
   "description": "CLI for getting weather",
   "main": "weather.js",
@@ -20,10 +20,10 @@
   "homepage": "https://purpleschool.ru",
   "repository": {
     "type": "git",
-    "url": "https://pokanetu.ru"
+    "url": "https://github.com/paketoff/weather_cli"
   },
   "bugs": {
-    "url": "https://pokanetu.ru",
+    "url": "https://github.com/paketoff/weather_cli",
     "email": "kekisreal228@gmail.com"
   },
   "dependencies": {

@@ -1,6 +1,3 @@
-#!/usr/bin/env node 
-//сверху мы говорим, что файл будем запускать с приставкой node. (она будет добавлена автоматом)
-
 import {getArgs} from './helpers/args.js';
 import { getWeather } from './services/api.service.js';
 import { printHelp, printSuccesss, printError, printWeather } from './services/log.service.js';
