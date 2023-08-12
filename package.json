@@ -1,6 +1,6 @@
 {
   "name": "weather_cli-package",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "private": false,
   "description": "CLI for getting weather",
   "main": "weather.js",
@@ -17,7 +17,7 @@
   ],
   "author": "Roman Rudyy",
   "license": "ISC",
-  "homepage": "https://purpleschool.ru",
+  "homepage": "https://paketoff-portfolio.netlify.app",
   "repository": {
     "type": "git",
     "url": "https://github.com/paketoff/weather_cli"

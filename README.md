@@ -10,8 +10,11 @@ Built with care and advanced features like saving tokens and cities, this packag
 Features
 
 -Easily get weather for any city
+
 -Save tokens and cities for quicker access
+
 -Beautiful and clear logs for weather details
+
 -Helpful command line arguments for easy navigation
 
 Installation
@@ -39,7 +42,9 @@ weather
 Dependencies
 
 -axios for making HTTP requests.
+
 -chalk for beautifying console logs.
+
 -dedent-js to handle string dedentation.
 
 Issues & Contributions
@@ -53,4 +58,5 @@ License
 This project is licensed under the ISC license.
 
 About the Author
-Developed with 💜 by Roman Rudyi.
+
+Developed with 💜 by Roman Rudyi --> https://paketoff-portfolio.netlify.app.
